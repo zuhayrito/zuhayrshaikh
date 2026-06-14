@@ -20,7 +20,7 @@ lang: "en"
 #   dark  — always render dark mode
 # Note: dark-first themes (e.g. terminal-retro) ignore "light" — their
 # whole identity is the dark palette.
-color_scheme: auto
+color_scheme: dark
 
 # -----------------------------------------------------------------------------
 # Plugins — every built-in plugin is shown below as a working example.
@@ -99,10 +99,10 @@ tagline: >-
 links:
   - link:
       icon: "fa-solid fa-rss"
-      text: "Tech Blog <span class='link-button-text'>(120+ Posts)</span>"
-      url: "https://zhgchg.li"
-      alt: "ZhgChgLi Tech & Travel Blog"
-      title: "ZhgChgLi Tech & Travel Blog"
+      text: "Portfolio website <span class='link-button-text'>(120+ Posts)</span>"
+      url: "https://zs8zfm.wixsite.com/zuhayr-shaikh"
+      alt: "Portfolio website"
+      title: "Portfolio website"
       target: "_blank"
 
   # → uses GithubRepoStarsCountPlugin
