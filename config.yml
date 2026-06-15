@@ -85,7 +85,7 @@ title: "Zuhayrs's Links"
 avatar: "./images/profile.jpeg"
 name: "Zuhayr Shaikh"
 tagline: >-
-    Maker of stuff, anesthesia resident.
+    Maker, ???, resident physician--anesthesiology
 
 # -----------------------------------------------------------------------------
 # Links
@@ -98,8 +98,8 @@ tagline: >-
 # -----------------------------------------------------------------------------
 links:
   - link:
-      icon: "fa-solid fa-rss"
-      text: "Portfolio website <span class='link-button-text'>(120+ Posts)</span>"
+      icon: "fa-solid fa-link"
+      text: "Portfolio website"
       url: "https://zs8zfm.wixsite.com/zuhayr-shaikh"
       alt: "Portfolio website"
       title: "Portfolio website"
