@@ -55,7 +55,7 @@ links:
 socials:
   - social:
       icon: "fa-brands fa-instagram"
-      url: "https://www.instagram.com/zuhayrito/reel/C_F-o6Aum6q/"
+      url: "https://www.instagram.com/zuhayrito"
       title: "Zuhayr's Instagram"
       alt: "Zuhayr's Instagram"
       target: "_blank"
@@ -75,7 +75,7 @@ socials:
 # Footer 
 # -----------------------------------------------------------------------------
 footer: >
-  Hi there! Thanks for checking out my page.
+  Hey
 
 copyright: >
   © {{ year }} <a href="https://zs8zfm.wixsite.com/zuhayr-shaikh" target="_blank">Zuhayr Shaikh</a>. Powered by linkyee
