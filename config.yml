@@ -202,8 +202,8 @@ socials:
 # -----------------------------------------------------------------------------
 # Footer (uses CountdownPlugin)
 # -----------------------------------------------------------------------------
-# footer: >
-    Hi there! Follow me on Medium or GitHub, or stay connected on Instagram or LinkedIn.
+ footer: >
+    Hi
     <br>linkyee has been live for {{ vars.CountdownPlugin.linkyee_release.days }} days. 🎉
 
 # Footer copyright message
