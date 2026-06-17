@@ -52,9 +52,25 @@ links:
 # -----------------------------------------------------------------------------
 # Social media buttons
 # -----------------------------------------------------------------------------
-# (Currently empty - let me know which ones you want to add!)
-socials: []
-
+socials:
+  - social:
+      icon: "fa-brands fa-instagram"
+      url: "https://www.instagram.com/zuhayrito/reel/C_F-o6Aum6q/"
+      title: "Zuhayr's Instagram"
+      alt: "Zuhayr's Instagram"
+      target: "_blank"
+  - social:
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/zuhayr-shaikh/"
+      title: "Zuhayr's LinkedIn"
+      alt: "Zuhayr's LinkedIn"
+      target: "_blank"
+  - social:
+      icon: "fa-brands fa-x-twitter"
+      url: "https://x.com/zuhayr_shaikh"
+      title: "Zuhayr's Twitter / X"
+      alt: "Zuhayr's Twitter / X"
+      target: "_blank"
 # -----------------------------------------------------------------------------
 # Footer 
 # -----------------------------------------------------------------------------
